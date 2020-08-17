@@ -4,4 +4,4 @@ This is a link to the project I'm working on right now; [a webpage with solution
 
 The following link was my first project and the predecessor of the link above; [solutions to the same mathematical problems](https://pablonivo.github.io/project-zero/).
 
-![Image of rabbits](https://pablonivo.github.io/images/rabbits.jpg)
+![Image of rabbits](https://pablonivo.github.io/images/gray_rabbits.jpg)
