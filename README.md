@@ -1,7 +1,7 @@
 ## Welcome to my website!
 
-This is a link to the project I'm working on right now; [a webpage with solutions to particular mathematical problems using firebase to store computation times](https://pablonivo.github.io/firebase/).
+This is a link to the project I'm working on right now; [a webpage with solutions to particular mathematical problems computed on a Heroku server](https://pablonivo.github.io/project-euler-client/home).
 
 ![Image of rabbits](https://pablonivo.github.io/images/gray_rabbits.jpg)
 
-The following link was my first project and the predecessor of the link above; [solutions to the same mathematical problems](https://pablonivo.github.io/project-zero/).
+The link above should replace this one: [a webpage with solutions to particular mathematical problems using firebase to store computation times](https://pablonivo.github.io/firebase/).
