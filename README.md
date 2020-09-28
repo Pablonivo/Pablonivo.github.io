@@ -1,6 +1,6 @@
 ## Welcome to my website!
 
-This is a link to the project I'm working on right now; [a webpage with solutions to particular mathematical problems computed on a Heroku server](https://pablonivo.github.io/project-euler-client/home).
+This is a link to the project I'm working on right now; [a webpage with solutions to particular mathematical problems computed on a Heroku server](https://pablonivo.github.io/project-euler-client).
 
 ![Image of rabbits](https://pablonivo.github.io/images/gray_rabbits.jpg)
 
